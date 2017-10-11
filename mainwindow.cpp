@@ -8,6 +8,7 @@
 #include "hog-svm.h"
 #include "objfeature.h"
 
+//make some change for test git usage
 const int alpha_slider_max = 100;
 int alpha_slider;
 
